@@ -3,7 +3,7 @@
 # Xeno-loader
 [![Xeno-NLU](https://img.shields.io/badge/Xeno_NLU-Linzepore-0e83cd.svg)]([https://hexo.io/](https://github.com/linzepore))
 [![Xeno-robot-client](https://img.shields.io/badge/Xeno_robot_client-Organwalk-fe7d37.svg)](https://github.com/organwalk)
-[![Xeno-robot-server](https://img.shields.io/badge/Xeno-robot-server-Organwalk-ffd36f.svg)](https://github.com/organwalk)
+[![Xeno-robot-server](https://img.shields.io/badge/Xeno_robot_server-Organwalk-ffd36f.svg)](https://github.com/organwalk)
 
 Xeno-loader consists of three parts: `Xeno-NLU` + `Xeno-robot-client` + `Xeno-robot-server`.
 
